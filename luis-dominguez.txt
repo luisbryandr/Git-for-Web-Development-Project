@@ -1,4 +1,4 @@
-finished code pen url https://codepen.io/Lbdcreador/pen/PopQXVX?editors=1100
+finished code pen url https://codepen.io/Lbdcreador/pen/ZEexKZX
 1. What is Semantic HTML? 
     2. What is HTML used for? 
     3. What is an attribute and where do we put it? 
